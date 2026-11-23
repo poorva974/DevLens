@@ -1,3 +1,4 @@
+// This is a file
 import { createApp } from 'vue'
 import './style.css'
 import { createPinia } from 'pinia'
